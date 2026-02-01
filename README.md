@@ -1,6 +1,10 @@
 # Claude Interactive Documentation Workflow
 
-A structured methodology for creating high-quality technical documentation and implementation plans using Claude Code's AI assistance.
+I used to whiteboard, then code. Now I markdown, then code.
+
+There are many ways to vibe code, but this one will allow you to understand the code that is being built, come back to it 6 months later and actually understand it, and more importantly, craft user-facing documentation artifacts trivially. The canonical documentation and plan files are actually kind of awesome for giving LLMs immediate, complete, and effective context to keep them guardrailed, without too much wrangling.
+
+**In short:** A structured methodology for creating high-quality technical documentation and implementation plans using Claude Code's AI assistance.
 
 ## What Is This?
 
